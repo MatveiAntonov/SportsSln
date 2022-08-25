@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BPPNKdGnzwSAEPi2nFX2zcHFt/VhvBEL0RhdT5MaQTco+2Z8zmM3fdUsZyiBS+/tKxo/KgpV0tRayG0WPDDFRg==",
+  "dgSpecHash": "NAhTmmk1GYcaRvZeSvyAeyDDPz4phjytWXeArZovrCnIqCGU7D92Lr0w3Q+bqM1ikJBVTQ5EUPn2ebAt8w35Zg==",
   "success": true,
-  "projectFilePath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+  "projectFilePath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User1\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\User1\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
+    "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {
+    "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectUniqueName": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
         "projectName": "SportsStore.Tests",
-        "projectPath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectPath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
         "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-        "outputPath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\obj\\",
+        "outputPath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj": {
-                "projectPath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj"
+              "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj": {
+                "projectPath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj"
               }
             }
           }
@@ -84,18 +84,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj": {
+    "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectPath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-        "outputPath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\obj\\",
+        "outputPath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,7 +153,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

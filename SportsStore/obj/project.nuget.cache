@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cjJmEotuq+SAlc7b/5Zd7oqWQOI07CldbPK8ij2LH32+3hkQpLSqsboqXMwZ0SN5hcNrJ1St2mYyCEwhMrelCA==",
+  "dgSpecHash": "uapWshHd9U1t/I8LAHhCmGa+zFekgl4lBUsLaRaVkCaEvLsDyBELqdxPBw5CtFIK0Wc31VHpyAHL3bco4YULAw==",
   "success": true,
-  "projectFilePath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

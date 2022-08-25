@@ -1828,11 +1828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectPath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-      "outputPath": "D:\\Самостоятельное обучение\\programming\\some code\\ASP .NET\\SportsSln\\SportsStore\\obj\\",
+      "outputPath": "D:\\Selfeducation\\programming\\C#\\some code\\ASP .NET\\SportsSln\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1890,7 +1890,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
